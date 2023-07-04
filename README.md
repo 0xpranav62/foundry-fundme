@@ -1,6 +1,6 @@
 # Foundry-Fundme
 
-Simple solidity contract with preforms basic fund and withdraw options developed using foundry.
+Simple solidity contract which performs basic fund and withdraw options developed using foundry.
 
 ## Run
 
