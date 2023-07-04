@@ -21,3 +21,9 @@ SEPOLIA_RPC_URL={...}
 PRIVATE_KEY={...}
 ETHERSCAN_API_KEY={...}
 2.You can use MakeFile to shorten the commands
+
+## Deployed Contract
+If you want to use the contract itself , you can go into sepolia etherscan and search for this contract address.
+```
+0xaF1631c1Edc22e672b04039aEF223Bab508D8081
+```
