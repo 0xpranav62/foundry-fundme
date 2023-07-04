@@ -20,6 +20,7 @@ Format should be like this:
 SEPOLIA_RPC_URL={...}
 PRIVATE_KEY={...}
 ETHERSCAN_API_KEY={...}
+```
 2.You can use MakeFile to shorten the commands
 
 ## Deployed Contract
